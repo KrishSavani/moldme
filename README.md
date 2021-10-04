@@ -1,4 +1,4 @@
-# #100DaysOfHacking
+# #100DaysOfCode
 
 - Learning DSA in Java and Web Development Fundamentals consistently for 100 days straight. [yes, no breaks]
 - This Repo is one stop to all the resources shared on Twitter - [Savani Krish](https://twitter.com/savani_krrish) each day. Motivation only takes you so far I am determined.
