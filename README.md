@@ -14,7 +14,7 @@
 
 | Start Date  | End Date    |
 | ----------- | ----------- |
-| 4th October, 2021 | 12th January, 2022 |
+| 23rd October, 2021 | 31rst January, 2022 |
 
 ---
 [Let's see how far I can go]
