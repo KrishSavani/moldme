@@ -7,7 +7,8 @@ Completed revising Input/Output, Debugging and Datatypes and other basic Java co
 From: [First Java Program - Input/Output, Debugging and Datatypes - Kunal Kushwaha](http://www.youtube.com/watch?v=TAtrPoaJ7gc&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=4&ab_channel=KunalKushwaha "First Java Program - Input/Output, Debugging and Datatypes - Kunal Kushwaha")
 Great video explains everything in detail and in an easy way.
 
-Completed and solved these [Problems](http://github.com/kunal-kushwaha/DSA-Bootcamp-Java/blob/main/assignments/02-first-java.md "Problems")
+Completed and solved these [Problems](http://github.com/kunal-kushwaha/DSA-Bootcamp-Java/blob/main/assignments/02-first-java.md "Problems").
+Uploaded the files here : [Day 1 Code](/Code/Day1/)
 
 
 
