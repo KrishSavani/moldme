@@ -21,6 +21,6 @@
 
 Day | Topic
 --- | ---
-**1** |  [Day1](/Days/Day1.md)
+**1** |  [Input/Output, Debugging and Datatypes and other basic Java concepts](/Days/Day1.md)
 
 
