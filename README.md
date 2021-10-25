@@ -23,6 +23,7 @@ Day | Topic
 --- | ---
 **1** |  [Input/Output, Debugging and Datatypes and other basic Java concepts](/Days/Day1.md)
 **2** |  [Conditionals, Loops and Intermediate problems](/Days/Day2.md)
+**3** |  [Switch Case & Functions/Methods in Java](/Days/Day3.md)
 
 
 
