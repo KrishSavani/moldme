@@ -1,4 +1,4 @@
-# Day-3 Summary:
+# Day-4 Summary:
 
 Drive gets you where motivation can never get you. Watch this great video [on the same](https://www.youtube.com/watch?v=kICh_d6tHQk&ab_channel=JamesScholz).
 He shares some great books that I might also read in the future : [Atomic Habits](https://jamesclear.com/atomic-habits) and [Deep Work](https://www.calnewport.com/books/deep-work/).
