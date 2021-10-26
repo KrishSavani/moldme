@@ -4,3 +4,6 @@ Days/.idea/vcs.xml
 Days/.idea/runConfigurations.xml
 Days/.idea/modules.xml
 *.iml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/runConfigurations.xml
