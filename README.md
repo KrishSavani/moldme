@@ -25,6 +25,7 @@ Day | Topic
 **2** |  [Conditionals, Loops and Intermediate problems](/Days/Day2.md)
 **3** |  [Switch Case & Functions/Methods in Java](/Days/Day3.md)
 **4** |  [Arrays & ArrayList in Java](/Days/Day4.md)
+**5,6,7,8** |  [Day 5 to 8](/Days/Day5to8.md)
 
 
 
