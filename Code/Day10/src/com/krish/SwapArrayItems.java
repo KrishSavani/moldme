@@ -12,8 +12,8 @@ public class SwapArrayItems {
 
     }
     static void swap(int[] arr, int i, int j) {
-        int temp = arr[1];
-        arr[1] = arr[2];
-        arr[2] = temp;
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
     }
 }
