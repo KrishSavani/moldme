@@ -10,9 +10,9 @@ public class MaxArrayItem {
     private static int maxItem(int[] arr) {
         int max = arr[0];
         for (int i: arr
-             ) {
+        ) {
             if(i > max)
-            max = i;
+                max = i;
 
         }
         return max;
