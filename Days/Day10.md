@@ -8,7 +8,7 @@ a person who believes that nothing is known or can be known of the existence or 
 
 ### Things Done:
 Completed some of [these questions](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/blob/main/assignments/05-arrays.md) on Array List and basic problems.
-Code of the solved questions are [here](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/blob/main/assignments/05-arrays.md).
+Code of the solved questions are [here](/Code/Day10/).
 
 
 ### Extra's:
