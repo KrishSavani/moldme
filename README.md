@@ -27,6 +27,7 @@ Day | Topic
 **4** |  [Arrays & ArrayList in Java](/Days/Day4.md)
 **5,6,7,8** |  [Day 5 to 8](/Days/Day5to8.md)
 **9** |  [ArrayList syntax and Functions](/Days/Day9.md)
+**10** |  [Arrays Questions](/Days/Day10.md)
 
 
 
