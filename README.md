@@ -2,7 +2,7 @@
 
 - Learning DSA in Java and Web Development Fundamentals consistently for 100 days straight. [yes, no breaks]
 - This Repo is one stop to all the resources shared on Twitter - [Savani Krish](https://twitter.com/savani_krrish) each day. Motivation only takes you so far I am determined.
-- With having no good control over consistency and persistence, this is something hard and challenging, but let's do it. Baby Steps it is. Trying to make a habbit mold in life.
+- With having no good control over consistency and persistence, this is something hard and challenging, but let's do it. Baby Steps it is. Trying to make a habit mold in life.
 
 # Objective
 
