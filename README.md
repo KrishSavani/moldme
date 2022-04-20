@@ -25,7 +25,7 @@ Day | Topic
 **9** |  [ArrayList syntax and Functions](/Days/Day9.md)
 **10** |  [Arrays Questions](/Days/Day10.md)
 **11** |  [More Arrays Questions](/Days/Day11.md)
-**X** | [Not so productive and communiy work](Days/fakeproductive.md)
+**X** | [Not so productive and community work](Days/fakeproductive.md)
 
 
 
