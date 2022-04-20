@@ -12,13 +12,6 @@ Objective Update:
 [Web Dev with Python, Django and Javascript](https://cs50.harvard.edu/web/2020/)
 
 
-# Commitment Timeline 
-
-
-| Start Date  | End Date    |
-| ----------- | ----------- |
-| 23rd October, 2021 | 31rst January, 2022 |
-
 ---
 [Let's see how far I can go]
 
